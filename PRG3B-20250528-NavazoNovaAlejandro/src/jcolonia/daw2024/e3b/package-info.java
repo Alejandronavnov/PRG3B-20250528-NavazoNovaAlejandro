@@ -1,8 +1,0 @@
-/**
- * UT8: Aplicación gráfica sobre inventario de equipos informáticos ̣–puestos,
- * usuarios y código de equipo–.
- * 
- * @author <a href= "mailto:alejandro.navnov@educa.jcyl.es">Alejandro Navazo Nova</a>
- * @version 09.08 (20250525000)
- */
-package jcolonia.daw2024.e3b;
