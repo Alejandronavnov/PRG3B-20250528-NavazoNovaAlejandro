@@ -1,0 +1,3 @@
+Añadir el repositorio
+Creacion de menu y botones
+Implementacion base de de datos
